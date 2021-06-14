@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milaneves
-- 👀 Programo em C # .Net, JavaScript, SQL Server, GIT.
+- 👀 Programo em C # .Net, Delphi, SQL Server, GIT.
 - 🌱 I’m currently  ampliando meus  conhecimentos em  .net    
 <!---
 milaneves/milaneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
