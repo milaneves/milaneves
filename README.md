@@ -1,7 +1,11 @@
 - 👋 Oi, me chamo Mila Neves
-- 👀 Programo em C # .Net framework, .NET Core, Delphi, SQL Server.
-- 🌱 Aprendendo mais sobre Angular, Docker, Cloud Azure
-- Skills e Ferramentas: C#, .NET Framework, .NET Core, API Rest, SQl Server, Crystal Reports, Delphi, Html, Css, Postman, Git.   
+Back-End: C#, Net framework, .Net Core, Delphi, xUnit
+Front-End : Angular, Angular Material, Javascript, Vue.js typescript , jasmine 
+Banco de dados: Sql server, MongoDb.
+Versionamento de código: Git, GitHub, GitLab.
+Técnicas de desenvolvimento: SOLID, Design Patterns, Clean Code, TDD, Code Review.
+Ferramentas: Postman, Insomnia, Visual Studio, Visual Code, Crystal Reports, TFS.
+Cursando inglês.   
  
 
 <!---
