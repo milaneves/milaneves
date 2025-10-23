@@ -7,7 +7,6 @@
 - Versionamento de código: Git, GitHub, GitLab.
 - Técnicas de desenvolvimento: SOLID, Design Patterns, Clean Code, TDD, Code Review.
 - Ferramentas: Postman, Insomnia, Visual Studio, Visual Code, Crystal Reports, TFS.
-- Cursando inglês.   
  
 
 <!---
